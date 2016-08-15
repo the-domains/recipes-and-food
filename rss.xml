@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Recipes and Food]]></title>
-        <description><![CDATA[Recipes and Food]]></description>
+        <title><![CDATA[Food]]></title>
+        <description><![CDATA[Food]]></description>
         <link>https://thegrid.ai/recipes-and-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 22:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 22:25:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/recipes-and-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reduced Spoke Bicycles : Conceptual Bike]]></title>
+            <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/conceptual-bike</link>
+            <guid isPermaLink="false">dc28cd91-041a-4c2e-9a35-b3197c3e7bc1</guid>
+            <pubDate>Mon, 15 Aug 2016 22:25:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wearable Sun Protection]]></title>
             <description><![CDATA[<article><h1>Wearable Sun Protection</h1><p>There's no faster way to throw shade on a warm weather vacation (or the first few hot days of spring) than with sunburn. It takes only 15 minutes of direct sunlight exposure for skin damage to begin occurring, so protection is a must.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02b678fdc35ac511ae64c114def378f383b690e1.jpg"></article>]]></description>
@@ -53,13 +60,6 @@
             <description><![CDATA[<article><h1>Mido Eyewear Show 2016</h1><p>While you might not have heard of it, Italy's Mido Eyewear Show is the leading event for eyewear professionals. It's an exhibition during which major international brands present their new styles and innovations for prescription specs and sunglasses-and, while it might sound like it's purely for industry members, it's fascinating for anybody interested in fashion and design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0e4e7f9c24bc25e24721945becf5f7aec28e9a0.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/design/mido-eyewear-show-preview-milan</link>
             <guid isPermaLink="false">a2e4e765-36db-40f6-ab02-dff73233bc78</guid>
-            <pubDate>Mon, 15 Aug 2016 22:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reduced Spoke Bicycles : Conceptual Bike]]></title>
-            <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/conceptual-bike</link>
-            <guid isPermaLink="false">dc28cd91-041a-4c2e-9a35-b3197c3e7bc1</guid>
             <pubDate>Mon, 15 Aug 2016 22:02:44 GMT</pubDate>
         </item>
     </channel>
